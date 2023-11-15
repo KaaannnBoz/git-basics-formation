@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Roses are red
   Violets are blue,
 Sugar is sweet
@@ -6,3 +7,9 @@ Roses are red
   Violets are blue,
 Without you
   My life is poo.
+=======
+Tulips are red
+  Violets are blue,
+Honey is sweet
+  And so are you.
+>>>>>>> 05c7fbd (feat(poem): a poem about kaan)
