@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Roses are red
   Violets are blue,
 Sugar is sweet
@@ -9,6 +10,9 @@ Without you
   My life is poo.
 =======
 Tulips are red
+=======
+Roses are red
+>>>>>>> a7bc512 (fix(poem): replace tulips by roses)
   Violets are blue,
 Honey is sweet
   And so are you.
